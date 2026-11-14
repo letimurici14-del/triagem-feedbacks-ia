@@ -93,4 +93,4 @@ Criei **30 casos de teste com gabarito**, incluindo casos ambíguos, sarcasmo, a
 
 ---
 
-Feito por **Letícia Murici** como projeto de aprendizado em automação com IA.
+**Letícia Murici**
